@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for Cohort DevOps and AWS Course</h1>
+    <h1>Welcome cohort4 Team for the Devops Beginner Course.</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
